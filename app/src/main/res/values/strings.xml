@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UREditText</string>
+    <string name="undo">undo</string>
+    <string name="redo">redo</string>
+</resources>
