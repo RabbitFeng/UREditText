@@ -1,2 +1,3 @@
+include ':uredittext'
 include ':app'
 rootProject.name='UREditText'
